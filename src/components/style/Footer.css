@@ -1,0 +1,274 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+footer{
+    width: 1480px;
+    height: 250px;
+    background-color: #FBFBFB;
+    display: flex;
+    margin-left: 140px;
+    margin-top: 210px;
+}
+
+.footer-box1{
+    margin-left: 40px;
+}
+
+.footer-box1_photo1{
+    margin-top: 30px;
+    margin-left: 39px;
+}
+
+.footer-box1_title1{
+    color: #3D3D3D;
+    font-family: sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px; 
+    margin-left: 23px;
+    margin-top: 17px;
+}
+
+.footer-box1_desc1{
+    width: 204px;
+    height: 66px;
+    color: #727272;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; 
+    margin-left: 23px;
+    margin-top: 9px;
+}
+
+.vertical-line{
+    height: 200px;
+    border-left: 2px solid rgba(70, 163, 88, 0.10);
+    margin-left: 34px;
+    margin-top: 31px;
+}
+
+.footer-contact-title{
+    color: #3D3D3D;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px; 
+    margin-top: 37px;
+}
+
+.footer-input{
+    width: 354px;
+    height: 40px;
+    border-radius: 6px;
+    background: #FFF;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.06);
+    border: none;
+    padding: 12px 11px;
+    margin-top: 18px;
+}
+
+.footer-input::placeholder{
+    color: #ACACAC;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+
+}
+
+.footer-btn{
+    width: 85px;
+    height: 40px;
+    border-radius: 0px 6px 6px 0px;
+    background: #46A358;
+    color: #FFF;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.footer-desc{
+    width: 354px;
+    height: 89px;
+    color: #727272;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; 
+    margin-top: 17px;
+    margin-left: 10px;
+}
+
+.footer-green{
+    width: 1480px;
+    height: 88px;
+    background: rgba(70, 163, 88, 0.10);
+    margin-left: 140px;
+    display: flex;
+}
+
+.footer-logo{
+    width: 150px;
+    height: 34.3px;
+    margin-top: 27px;
+    margin-left: 23px;
+}
+
+.location{
+    margin-top: 16px;
+    margin-left: 87px;
+}
+
+.location-desc{
+    width: 176px;
+    height: 44px;
+    color: #3D3D3D;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; 
+    margin-left: 120px;
+    margin-top: -30px;
+}
+
+.message1{
+    width: 20px;
+    height: 20px;
+    margin-top: 26px;
+    margin-left: 60px;
+}
+
+.message-contact{
+    color: #3D3D3D;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; 
+    margin-top: 26px;
+    margin-left: 10px;
+}
+
+.Calling{
+    width: 20px;
+    height: 20px;
+    margin-top: 25px;
+    margin-left: 73px;
+}
+
+.Calling_desc{
+    width: 150px;
+    color: #3D3D3D;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; 
+    position: relative;
+    top: 33px;
+    margin-left: 8px;
+}
+
+.about{
+    width: 1480px;
+    height: 250px;
+    background: #FBFBFB;
+    margin-left: 140px;
+    border-bottom: 3px solid rgba(70, 163, 88, 0.20);
+}
+
+.account-title{
+    color: #3D3D3D;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px; 
+    position: relative;
+    top: 33px;
+    margin-left: 23px;
+}
+
+.account-nav{
+    margin-left: 23px;
+    margin-top: 8px;
+    position: relative;
+    top: 33px;
+}
+
+.acc-item{
+    color: #3D3D3D;
+    font-family: sans-serif ;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+}
+
+.my_account1{
+    margin-left: 166px;
+}
+
+.soc{
+    color: #3D3D3D;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px; 
+    margin-left: 921px;
+    margin-top: -137px;
+}
+
+.social-icons{
+    margin-left: 912px;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.social-items{
+    border-radius: 4px;
+    border: 1px solid rgba(70, 163, 88, 0.20);  
+    padding: 10px 15px;
+    margin-left: 10px;
+}
+
+.we-accepct-title{
+    color: #3D3D3D;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px; 
+    margin-left: 921px;
+    margin-top: 33px;
+}
+
+.payment{
+    margin-left: 921px;
+    margin-top: 13px;
+}
+
+.accepts{
+    color: #3D3D3D;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    text-align: center;
+}
